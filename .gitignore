@@ -8,3 +8,4 @@ fp-info-cache
 *.kicad_prl
 *.jpg
 *.zip
+*.kicad_sch.lck
