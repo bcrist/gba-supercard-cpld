@@ -6,8 +6,8 @@
     .paths = .{""},
     .dependencies = .{
         .lc4k = .{
-            .url = "git+https://github.com/bcrist/zig-lc4k#7e2261eca23fc3525e2a78ffa22fa85e54d8f61f",
-            .hash = "lc4k-0.2.0-5R47Qmk0EwB9IMdPItXUXPP_Q42f47pm7zvVmQo63F7I",
+            .url = "git+https://github.com/bcrist/zig-lc4k#42c2a3f89dc5f754e999ac4540a0b5dccbf3ff18",
+            .hash = "lc4k-0.2.2-5R47Qi1MEwB4JKPYpWm1ENQQn-cWEOlWNs7XWzrhm6bl",
         },
     },
 }
